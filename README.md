@@ -79,7 +79,7 @@ int main() {
 ```
 
 # OUTPUT
-<img width="433" alt="image" src="https://github.com/user-attachments/assets/02946751-678b-41f6-b23d-b453c5ae06a8" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/02946751-678b-41f6-b23d-b453c5ae06a8" />
 
 # RESULT
 The program is executed successfully
